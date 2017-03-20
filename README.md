@@ -1,6 +1,6 @@
 # crystal-chef
 
-TODO: Write a description here
+A client library for interacting with Chef servers (super alpha work in progress)
 
 ## Installation
 
@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   crystal-chef:
-    github: [your-github-name]/crystal-chef
+    github: sylvainsf/crystal-chef
 ```
 
 ## Usage
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Sylvain Niles - creator, maintainer
+- [[sylvainsf]](https://github.com/sylvainsf) Sylvain Niles - creator, maintainer
