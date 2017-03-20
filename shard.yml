@@ -1,0 +1,9 @@
+name: crystal-chef
+version: 0.1.0
+
+authors:
+  - Sylvain Niles <sylvain.niles@gmail.com>
+
+crystal: 0.21.1
+
+license: MIT
